@@ -2,4 +2,4 @@
 .venv/
 test/
 dagtser_medallion/.tmp_*/
-!resources/data/
+!dagtser_medallion/resources/data/*
