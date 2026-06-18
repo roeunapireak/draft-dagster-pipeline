@@ -1,2 +1,3 @@
 test/
 dagtser_medallion/.tmp_*
+.venv/
