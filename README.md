@@ -1,4 +1,6 @@
 # draft-dagster-pipeline
 
-    pip install dagster dagster-webserver dagster-dg-cli
+    pip install dagster dagster-webserver
+    
     pip install pyspark
+
