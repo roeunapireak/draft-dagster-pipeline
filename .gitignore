@@ -1,4 +1,4 @@
-.tmp_*
+.tmp_*/
 .venv/
 test/
 dagtser_medallion/.tmp_*
